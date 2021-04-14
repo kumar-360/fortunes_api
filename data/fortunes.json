@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 2,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "Lion"
+  },
+  {
+    "id": 4,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 5,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 6,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 8,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 7,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  },
+  {
+    "id": 9,
+    "message": "New message",
+    "luckyNumber": "New Number",
+    "spiritAnimal": "New Animal"
+  }
+]
